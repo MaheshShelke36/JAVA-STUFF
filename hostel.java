@@ -6,6 +6,7 @@ public class hostel {
         System.out.println("welcome to the Military Boys hostel");
 
         Scanner boys = new Scanner(System.in);
+        //this code is made for mbh hostel
 
         System.out.println("enter your Student name");
         String studentName = boys.nextLine();
