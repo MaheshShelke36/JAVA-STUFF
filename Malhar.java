@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Malhar {
     static public void main(String[] args){
-        System.out.println(" SAnika patil and Nandini xyz");
+        System.out.println("Hello i am testing the git");
 
         //Scanner cars = new Scanner(System.in);
          
